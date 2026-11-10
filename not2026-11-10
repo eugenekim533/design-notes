@@ -1,0 +1,11 @@
+# 2026-11-10
+
+## Today
+- Set up GitHub: portfolio redirect (eugenekim533.github.io → eugenekim.space) and this design notes log
+
+## Learned
+- Framer has no official code export; third-party exporters output bundled JS, not editable HTML
+- A `meta refresh` + `canonical` tag is the simplest way to redirect a GitHub Pages site
+
+## Saw
+- (오늘 본 좋은 UI 하나 + 왜 좋았는지 한 줄)
